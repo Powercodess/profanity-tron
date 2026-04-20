@@ -1,12 +1,15 @@
 # profanity-tron-main 实锤审计报告（针对profanity-tron源码）
 
 以下两位作者均为一人：
+<img width="2611" height="1521" alt="image" src="https://github.com/user-attachments/assets/e0e7bd37-26e7-473e-b256-1563d03c4ce8" />
 
 审计范围1：https://github.com/sodasord/profanity-tron
 
 审计范围2：https://github.com/sponsord/profanity-tron
 
 看雪分析：https://bbs.kanxue.com/thread-289060.htm
+<img width="2753" height="1731" alt="image" src="https://github.com/user-attachments/assets/a414fc55-4162-46d5-b038-6f1b05ebff2d" />
+<img width="2608" height="1754" alt="image" src="https://github.com/user-attachments/assets/8cd71beb-f4cb-439a-bda5-e96215678fa6" />
 
 结论摘要：本目录源码内**存在一条可将“生成的私钥 + 地址”通过网络发往任意 URL 的逻辑路径**，并且通过**未在帮助信息/README公开的隐藏参数**进行启用；同时该网络请求还存在 **TLS 校验被显式关闭** 等高风险实现。以上属于“上传私钥/暗桩接口”的明确证据。
 
