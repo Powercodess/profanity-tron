@@ -11,7 +11,7 @@
 
 </p>
 
-# profanity-tron-main 实锤审计报告（针对profanity-tron源码）
+# profanity-tron-main 后门实锤审计报告（针对profanity-tron源码）
 
 以下两位作者均为一人：
 <img width="2611" height="1521" alt="image" src="https://github.com/user-attachments/assets/e0e7bd37-26e7-473e-b256-1563d03c4ce8" />
