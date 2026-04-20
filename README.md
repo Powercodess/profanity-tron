@@ -1,3 +1,11 @@
+<p align="center">
+
+[![中文](https://img.shields.io/badge/语言-中文-red)](#chinese)
+[![English](https://img.shields.io/badge/Language-English-blue)](#english)
+[![日本語](https://img.shields.io/badge/言語-日本語-green)](#japanese)
+[![العربية](https://img.shields.io/badge/لغة-العربية-black)](#arabic
+</p>
+
 # profanity-tron-main 实锤审计报告（针对profanity-tron源码）
 
 以下两位作者均为一人：
