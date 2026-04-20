@@ -1,9 +1,14 @@
 <p align="center">
 
-[![中文](https://img.shields.io/badge/语言-中文-red)](#chinese)
-[![English](https://img.shields.io/badge/Language-English-blue)](#english)
-[![日本語](https://img.shields.io/badge/言語-日本語-green)](#japanese)
-[![العربية](https://img.shields.io/badge/لغة-العربية-black)](#arabic
+  <a href="#中文">🇨🇳 中文</a> •
+  <a href="#english">🇺🇸 English</a> •
+  <a href="#日本語">🇯🇵 日本語</a> •
+  <a href="#한국어">🇰🇷 한국어</a> •
+  <a href="#हिन्दी">🇮🇳 हिन्दी</a> •
+  <a href="#español">🇪🇸 Español</a> •
+  <a href="#العربية">🇸🇦 العربية</a> •
+  <a href="#русский">🇷🇺 Русский</a>
+
 </p>
 
 # profanity-tron-main 实锤审计报告（针对profanity-tron源码）
