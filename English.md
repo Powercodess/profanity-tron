@@ -1,11 +1,16 @@
-# profanity-tron-main Verified Audit Report (Targeting profanity-tron Source Code)
+</p>
 
-The following two authors are the same person:
+# profanity-tron Backdoor Theft Solid Audit Report (for profanity-tron source code)
+# Attention! Reported by other authors, this author has deleted the repository and renamed it to: GenTronx Address: https://github.com/GenTronx/gpu
+
+All the following authors are the same person:
 <img width="2611" height="1521" alt="image" src="https://github.com/user-attachments/assets/e0e7bd37-26e7-473e-b256-1563d03c4ce8" />
 
 Audit Scope 1: https://github.com/sodasord/profanity-tron
 
 Audit Scope 2: https://github.com/sponsord/profanity-tron
+
+Audit Scope 3: Account change on April 25, 2026: https://github.com/GenTronx/gpu<img width="2613" height="1731" alt="image" src="https://github.com/user-attachments/assets/7ee5f407-4c73-4199-9de7-607bceae01ff" />
 
 Kanxue Analysis: https://bbs.kanxue.com/thread-289060.htm
 <img width="2753" height="1731" alt="image" src="https://github.com/user-attachments/assets/a414fc55-4162-46d5-b038-6f1b05ebff2d" />
